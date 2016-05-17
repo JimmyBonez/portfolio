@@ -1,0 +1,57 @@
+#pic1 {
+  width: 100px;
+  height: 100px;
+  margin-top: 220px;
+  margin-bottom: 600px;
+  position: relative;
+  left: 540px;
+}
+
+#pic2 {
+  width: 100px;
+  height: 100px;
+  margin-top: 300px;
+  margin-bottom: 600px;
+  position: relative;
+  left: 150px;
+}
+
+#pic3 {
+  width: 100px;
+  height: 100px;
+  margin-top: 140px;
+  margin-bottom: 600px;
+  position: relative;
+  left: 345px;
+}
+#about {
+background: url(http://orig07.deviantart.net/992a/f/2012/320/f/6/stickerbomb_by_vicing-d5l6d3o.jpg);
+  background-size: 100% 130%;
+  height: 900px;
+}
+.hello {
+  font-family: Arial;
+  background-color: #FFFF70;
+  margin-top: 200px;
+}
+.movepls {
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+#portfolio {
+background: url(https://images-eu.ssl-images-amazon.com/images/I/819d7VcYrSL._SL1500_.jpg)no-repeat;
+  background-size: 100% 130%;
+  height: 900px;
+}
+.about-section {
+    height: 100%;
+    padding-top: 25px;
+    padding-bottom: 150px;
+    text-align: center;
+}
+.portfolio-section {
+  height: 100%;
+  padding-top 150px;
+  
+}
